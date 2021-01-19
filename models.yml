@@ -59,7 +59,7 @@
   cores: Dual Core
   threads: "2"
   fpu: "Yes"
-  arch: Apollolake
+  arch: x86_64
   ram: DDR3L SO-DIMM 2GB
 - name: DS420j
   cpu: Realtek RTD1296
@@ -115,7 +115,7 @@
   cores: Quad Core
   threads: "4"
   fpu: "Yes"
-  arch: Apollolake
+  arch: x86_64
   ram: DDR3L SO-DIMM 8GB
 - name: DS419slim
   cpu: Marvell Armada 385 88F6820
@@ -185,14 +185,14 @@
   cores: Quad Core
   threads: "4"
   fpu: "Yes"
-  arch: Apollolake
+  arch: x86_64
   ram: DDR3L SO-DIMM 4GB
 - name: DS718+
   cpu: Intel Celeron J3455
   cores: Quad Core
   threads: "4"
   fpu: "Yes"
-  arch: Apollolake
+  arch: x86_64
   ram: DDR3L SO-DIMM 2GB
 - name: DS418
   cpu: Realtek RTD1296
@@ -206,7 +206,7 @@
   cores: Dual Core
   threads: "2"
   fpu: "Yes"
-  arch: Apollolake
+  arch: x86_64
   ram: DDR3L SO-DIMM 2GB
 - name: DS418j
   cpu: Realtek RTD1293
@@ -220,7 +220,7 @@
   cores: Dual Core
   threads: "2"
   fpu: "Yes"
-  arch: Apollolake
+  arch: x86_64
   ram: DDR3L SO-DIMM 2GB
 - name: DS218
   cpu: Realtek RTD1296
